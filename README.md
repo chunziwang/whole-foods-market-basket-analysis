@@ -50,7 +50,7 @@ Association between number of orders and probability of reordering, although som
 
 ![](https://github.com/chunziwang/whole-foods-market-basket-analysis/blob/master/figs/4.png)
 
-### Visualiza product porfolio
+### Visualize product porfolio
 
 This graph shows the overall product porfolio this dataset holds.
 
