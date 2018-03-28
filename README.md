@@ -1,6 +1,8 @@
 # Whole Foods: Analyzing Grocery Buying Habits to Boost Cross-Selling
 ----
 
+![](https://github.com/chunziwang/whole-foods-market-basket-analysis/blob/master/figs/19.jpg)
+
 ## Business Problem
 
 Amazon recently acquired Whole Foods for $13.7 billion. The acquisition is about two things: data and product. In particular, Amazon is interested in the treasure trove of consumer data that comes with this acquisition.
@@ -12,8 +14,6 @@ With massive amounts of data from Whole Foods shoppers, Amazon will ultimately b
 What kind of analytical approaches could be implemented on the data to address the business problems and opportunities outlined above?
 
 If this analytical project were approved, how might these approaches address the business problems?
-
-![](https://github.com/chunziwang/whole-foods-market-basket-analysis/blob/master/figs/19.png)
 
 
 ## Dataset Overview
