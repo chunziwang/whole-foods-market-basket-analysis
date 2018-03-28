@@ -1,6 +1,5 @@
 # Whole Foods: Analyzing Grocery Buying Habits to Boost Cross-Selling
 ----
-
 ![](https://github.com/chunziwang/whole-foods-market-basket-analysis/blob/master/figs/19.png)
 
 ## Business Problem
